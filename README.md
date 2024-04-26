@@ -7,7 +7,7 @@
 
 ## Для начала 
 1. Нужно установить git: https://htmlacademy.ru/blog/git/git-console
-2. git clone 
+2. git clone git@github.com:Deppkepa/bashscript.git
 
 ## Как использовать
 
