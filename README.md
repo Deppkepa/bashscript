@@ -6,7 +6,8 @@
 Скрипт port.sh проверяет доступность портов на указанном хосте.
 
 ## Для начала 
-Нужно установить git: https://htmlacademy.ru/blog/git/git-console
+1. Нужно установить git: https://htmlacademy.ru/blog/git/git-console
+2. git clone 
 
 ## Как использовать
 
